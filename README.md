@@ -11,4 +11,5 @@ For more information, visit the article explaining this workflow
 
 Run `npm install` and `npm start` inside each repo. This will build and serve your apps on ports `3001`, `3002`.
 
-Example from https://github.com/module-federation/module-federation-examples/tree/master/basic-host-remote
+Example from: https://github.com/module-federation/module-federation-examples/tree/master/basic-host-remote
+Reference: https://webpack.js.org/concepts/module-federation/
